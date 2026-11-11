@@ -1,0 +1,3 @@
+D:/OpenGL_Projects/Shader/build/CMakeFiles/Shader.dir
+D:/OpenGL_Projects/Shader/build/CMakeFiles/ALL_BUILD.dir
+D:/OpenGL_Projects/Shader/build/CMakeFiles/ZERO_CHECK.dir
